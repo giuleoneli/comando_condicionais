@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\bin\Debug\net8.0\Intervalo_de_valores.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\bin\Debug\net8.0\Intervalo_de_valores.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\bin\Debug\net8.0\Intervalo_de_valores.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\bin\Debug\net8.0\Intervalo_de_valores.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\bin\Debug\net8.0\Intervalo_de_valores.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\refint\Intervalo_de_valores.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\Intervalo_de_valores.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Intervalo_de_valores\obj\Debug\net8.0\ref\Intervalo_de_valores.dll

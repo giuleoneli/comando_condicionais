@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\bin\Debug\net8.0\Comparacao_de_numeros.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\bin\Debug\net8.0\Comparacao_de_numeros.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\bin\Debug\net8.0\Comparacao_de_numeros.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\bin\Debug\net8.0\Comparacao_de_numeros.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\bin\Debug\net8.0\Comparacao_de_numeros.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\refint\Comparacao_de_numeros.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\Comparacao_de_numeros.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Comparacao_de_numeros\obj\Debug\net8.0\ref\Comparacao_de_numeros.dll

@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\bin\Debug\net8.0\Verificacao_de_paridade.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\bin\Debug\net8.0\Verificacao_de_paridade.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\bin\Debug\net8.0\Verificacao_de_paridade.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\bin\Debug\net8.0\Verificacao_de_paridade.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\bin\Debug\net8.0\Verificacao_de_paridade.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\refint\Verificacao_de_paridade.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\Verificacao_de_paridade.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Verificacao_de_paridade\Verificacao_de_paridade\obj\Debug\net8.0\ref\Verificacao_de_paridade.dll

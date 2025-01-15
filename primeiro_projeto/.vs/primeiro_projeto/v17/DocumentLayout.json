@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giulia.alyamasaki\\source\\repos\\primeiro_projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC345B1-89EF-4965-9075-5809A17DEC1A}|primeiro_projeto\\primeiro_projeto.csproj|c:\\users\\giulia.alyamasaki\\source\\repos\\primeiro_projeto\\primeiro_projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC345B1-89EF-4965-9075-5809A17DEC1A}|primeiro_projeto\\primeiro_projeto.csproj|solutionrelative:primeiro_projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\giulia.alyamasaki\\source\\repos\\primeiro_projeto\\primeiro_projeto\\Program.cs",
+              "RelativeDocumentMoniker": "primeiro_projeto\\Program.cs",
+              "ToolTip": "C:\\Users\\giulia.alyamasaki\\source\\repos\\primeiro_projeto\\primeiro_projeto\\Program.cs",
+              "RelativeToolTip": "primeiro_projeto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T19:56:46.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

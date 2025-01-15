@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\bin\Debug\net8.0\numero_positivo_ou_negativo.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\bin\Debug\net8.0\numero_positivo_ou_negativo.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\bin\Debug\net8.0\numero_positivo_ou_negativo.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\bin\Debug\net8.0\numero_positivo_ou_negativo.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\bin\Debug\net8.0\numero_positivo_ou_negativo.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\refint\numero_positivo_ou_negativo.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\numero_positivo_ou_negativo.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\numero_positivo_ou_negativo\obj\Debug\net8.0\ref\numero_positivo_ou_negativo.dll

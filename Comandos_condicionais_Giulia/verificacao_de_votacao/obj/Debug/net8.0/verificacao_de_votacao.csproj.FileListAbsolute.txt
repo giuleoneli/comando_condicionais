@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\bin\Debug\net8.0\verificacao_de_votacao.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\bin\Debug\net8.0\verificacao_de_votacao.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\bin\Debug\net8.0\verificacao_de_votacao.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\bin\Debug\net8.0\verificacao_de_votacao.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\bin\Debug\net8.0\verificacao_de_votacao.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\refint\verificacao_de_votacao.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\verificacao_de_votacao.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\verificacao_de_votacao\obj\Debug\net8.0\ref\verificacao_de_votacao.dll

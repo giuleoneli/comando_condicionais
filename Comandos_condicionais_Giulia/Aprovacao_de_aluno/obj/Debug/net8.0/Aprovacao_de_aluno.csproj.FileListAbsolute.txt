@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\bin\Debug\net8.0\Aprovacao_de_aluno.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\bin\Debug\net8.0\Aprovacao_de_aluno.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\bin\Debug\net8.0\Aprovacao_de_aluno.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\bin\Debug\net8.0\Aprovacao_de_aluno.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\bin\Debug\net8.0\Aprovacao_de_aluno.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\refint\Aprovacao_de_aluno.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\Aprovacao_de_aluno.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Aprovacao_de_aluno\obj\Debug\net8.0\ref\Aprovacao_de_aluno.dll

@@ -1,0 +1,14 @@
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\bin\Debug\net8.0\Calculo_do_desconto.exe
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\bin\Debug\net8.0\Calculo_do_desconto.deps.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\bin\Debug\net8.0\Calculo_do_desconto.runtimeconfig.json
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\bin\Debug\net8.0\Calculo_do_desconto.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\bin\Debug\net8.0\Calculo_do_desconto.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.AssemblyInfoInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.AssemblyInfo.cs
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.csproj.CoreCompileInputs.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\refint\Calculo_do_desconto.dll
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.pdb
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\Calculo_do_desconto.genruntimeconfig.cache
+C:\Users\giulia.alyamasaki\source\repos\Comandos_condicionais_Giulia\Calculo_do_desconto\obj\Debug\net8.0\ref\Calculo_do_desconto.dll
